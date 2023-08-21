@@ -1,4 +1,5 @@
 As ultimas versões do chalk estão com problemas caso haja algum problema instale a versão 4.1.2
 digite o seguinte comando npm install chalk@4.1.2
+
 case o inquirer dê problema:
 use npm install inquirer@8.1.0

@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Marcos Willian",
+  "author": "Marcos W.",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
